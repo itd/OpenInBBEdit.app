@@ -28,11 +28,15 @@ If you have questions you can send me a note.
 
 
 Credits
-------------
+--------
 :Original goodness:
   Henrik Nyh http://henrik.nyh.se/2007/10/open-in-textmate-from-leopard-finder ;
+
   Thanks, dude!
 
+
 :Mere hacks:
-Kurt Bendl: http://tool.net/ ;
-Being draggged about on the coattails of giants.
+  Kurt Bendl: http://tool.net/
+
+  Being draggged about on the coattails of giants.
+

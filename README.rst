@@ -29,14 +29,14 @@ If you have questions you can send me a note.
 
 Credits
 --------
-:Original goodness:
-  Henrik Nyh http://henrik.nyh.se/2007/10/open-in-textmate-from-leopard-finder ;
+**Original goodness**
+  `Henrik Nyh <http://henrik.nyh.se/2007/10/open-in-textmate-from-leopard-finder>`_
 
   Thanks, dude!
 
 
-:Mere hacks:
-  Kurt Bendl: http://tool.net/
+**Mere hacks**
+  `Kurt Bendl <http://tool.net/>`_
 
   Being draggged about on the coattails of giants.
 
